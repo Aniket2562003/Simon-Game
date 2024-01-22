@@ -38,6 +38,7 @@ Feel free to adjust the wording to better match the style and tone of your game.
 <h2>Feature</h2>
 <p>"Dive into the immersive world of the Simon Game, where vibrant colors and distinctive sound effects come together to enhance your gaming experience. This memory-challenging game offers progressive difficulty, keeping you engaged and entertained as you advance through increasingly complex sequences. The game serves as an excellent tool for memory training and concentration improvement. With its replayable nature, you can restart and aim to beat your high score, ensuring endless hours of fun. Explore the colorful design, enjoy unique tones for each color, and embrace the thrill of a game that not only entertains but also sharpens your cognitive skills. The Simon Game is not just a game; it's a journey of memory mastery and endless enjoyment!"</p>
 
+<h2>Screenshot</h2>
 <p align="center">
   <img src="./Images/Screenshot 2024-01-22 141537.png" alt="Image Alt Text">
 </p>
