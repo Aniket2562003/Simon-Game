@@ -10,11 +10,19 @@
 
  <h1>Project Setup Instructions</h1>
 
-  <h2>Clone the Repository:</h2> 
+  <h3>Clone the Repository:</h3> 
 <p>Copy the repository URL from GitHub.
 Open your terminal or command prompt.
 Navigate to the directory where you want to clone the repository.
 Run the following command:</p>
+<p>git clone https://github.com/username/repository.git</p>
+
+<h3>Run Live Server:</h3>
+<p>If you have a live server extension installed (e.g., VSCode Live Server), navigate to the project directory and right-click on your HTML file.
+Choose the option to "Open with Live Server."</p>
+<h3>Access the Application:</h3>
+<p>
+Your default web browser will open, and you can view your HTML, CSS, and JavaScript project live.</p>
 
 
   
