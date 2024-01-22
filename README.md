@@ -34,9 +34,12 @@ Technologies used in the project:
 *   HTML
 *   CSS
 *   JS
-<h3>How to play?</h3>
+
+  
+<h2>How to play?</h2>
 <p>"Welcome to the Simon Game! To play, press the 'Start' button, and Simon will illuminate a sequence of colors while playing corresponding tones. Memorize the sequence and then repeat it by clicking on the colors in the correct order. As you progress, the sequences become longer and more challenging. Make a mistake, and the game ends, but don't worry, you can always start again. The game features a vibrant and engaging design, distinct sound effects for each color, progressive difficulty, and endless replayability. Sharpen your memory and concentration skills while having fun with the Simon Game!"
 
 Feel free to adjust the wording to better match the style and tone of your game.</p>
-<h3>Feature</h3>
+
+<h2>Feature</h2>
 <p>"Dive into the immersive world of the Simon Game, where vibrant colors and distinctive sound effects come together to enhance your gaming experience. This memory-challenging game offers progressive difficulty, keeping you engaged and entertained as you advance through increasingly complex sequences. The game serves as an excellent tool for memory training and concentration improvement. With its replayable nature, you can restart and aim to beat your high score, ensuring endless hours of fun. Explore the colorful design, enjoy unique tones for each color, and embrace the thrill of a game that not only entertains but also sharpens your cognitive skills. The Simon Game is not just a game; it's a journey of memory mastery and endless enjoyment!"</p>
