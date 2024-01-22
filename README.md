@@ -15,7 +15,7 @@
 Open your terminal or command prompt.
 Navigate to the directory where you want to clone the repository.
 Run the following command:</p>
-<p>git clone https://github.com/username/repository.git</p>
+<p>git clone https://github.com/Aniket2562003/Simon-Game.git</p>
 
 <h3>Run Live Server:</h3>
 <p>If you have a live server extension installed (e.g., VSCode Live Server), navigate to the project directory and right-click on your HTML file.
